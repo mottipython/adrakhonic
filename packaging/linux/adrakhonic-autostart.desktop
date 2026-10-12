@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=The Adrakhonic Theorem screensaver
+Comment=Start the Adrakhonic theorem when the session has been idle
+Exec=adrakhonic-screensaver watch
+Icon=adrakhonic
+NoDisplay=true
+X-GNOME-Autostart-enabled=true

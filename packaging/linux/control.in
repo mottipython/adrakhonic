@@ -1,0 +1,18 @@
+Package: adrakhonic
+Version: @VERSION@
+Section: games
+Priority: optional
+Architecture: @ARCH@
+Depends: libc6 (>= 2.38), libsdl2-2.0-0 (>= 2.0.18), swayidle
+Installed-Size: @SIZE@
+Maintainer: Motti Schleider <motti.schleider@gmail.com>
+Description: The Adrakhonic theorem, a screensaver from "Anathem"
+ The Adrakhonic theorem from Neal Stephenson's novel Anathem: in a triangle
+ with a square corner, the square on the long side is as big as the squares on
+ the other two sides together.
+ .
+ A fraa at a slate proves it four ways in coloured chalk, with pieces that slide,
+ shear and turn, and with a different triangle every time.
+ .
+ On Wayland desktops it starts by itself after five minutes idle.
+ adrakhonic-screensaver changes the delay or turns it off.
