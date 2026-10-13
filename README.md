@@ -1,7 +1,7 @@
 # The Adrakhonic Theorem
 
 A screensaver that proves the Adrakhonic theorem, from Neal Stephenson's novel
-*Anathem*, four ways in coloured chalk. Runs on Linux, Windows and macOS.
+*Anathem*, four ways in coloured chalk. Runs on Linux, Windows and macOS. One of the [Anathem screensavers](https://github.com/mottipython/anathem-screensavers).
 
 ![The triangle and its three squares](docs/screenshots/01-the-theorem.jpg)
 
