@@ -1,7 +1,7 @@
 # The Adrakhonic Theorem
 
 A screensaver that proves the Adrakhonic theorem, from Neal Stephenson's novel
-*Anathem*, four ways in coloured chalk. Runs on Linux and Windows.
+*Anathem*, four ways in coloured chalk. Runs on Linux, Windows and macOS.
 
 ![The triangle and its three squares](docs/screenshots/01-the-theorem.jpg)
 
@@ -56,6 +56,19 @@ Run `Adrakhonic-Setup-1.0.0.exe`. It asks for administrator rights, because Wind
 only lists screensavers that are in its own system folder. After that "The Adrakhonic
 Theorem" is in Screen Saver Settings with the others, already selected. Uninstall from
 Apps.
+
+### macOS
+
+Download `The-Adrakhonic-Theorem-…-mac.zip` from the releases page, unzip it, and open the app. It
+runs full screen; any key or a click ends it. It is built for Apple Silicon and
+Intel, macOS 11 or later.
+
+The app is not signed with an Apple developer certificate, so the first time macOS
+will refuse to open it. Right-click the app and choose Open, or allow it under
+System Settings, Privacy & Security. For now it is an ordinary app and not a screen
+saver module, so it does not appear in the Screen Saver settings. The Mac build is
+made and run on a build machine but has not been tried by a person on a real Mac;
+reports are welcome.
 
 ### Linux
 
